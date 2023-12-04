@@ -1,11 +1,14 @@
 # Semantic Argument Types in Persuasive Essays
 
-This repo will contain our annotations of semantic argument types for the Argument Annotated Essays corpus. In addition we will provide the annotation guidelines. The repo will be filled shortly. 
+This repo contains our annotations of semantic argument types for the Argument Annotated Essays (AAE) corpus (Stab & Gurevych 2017). 
+In addition we provide the annotation guidelines. 
+As we are not allowed to share the original component annotations from Stab & Gurevych 2017, these need to be reconstructed from our annotations and/or
+the AAE corpus.  
 
 ## Paper 
 
 ```
-Robin Schaefer, René Knaebel and Manfred Stede. Towards Fine-Grained Argumentation Strategy Analysis in Persuasive Essays. In Proceedings of the 10th Workshop on Argument Mining (at EMNLP 2023). Singapore, 2023. To appear.
+Robin Schaefer, René Knaebel and Manfred Stede. Towards Fine-Grained Argumentation Strategy Analysis in Persuasive Essays. In Proceedings of the 10th Workshop on Argument Mining (at EMNLP 2023). Singapore, 2023.
 ```
 
 ## License
